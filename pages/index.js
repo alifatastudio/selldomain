@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <div className={styles.container}>
       <Head>
-        <title>On Sale Domain alifata.com</title>
+        <title>On Sale Domain bisnisplay.com & alifata.com</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -28,7 +28,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        <p>on sale alifata.com +62 858 7520 4463</p>
+        <p>on sale bisnisplay.com & alifata.com +62 858 7520 4463</p>
       </footer>
     </div>
   )
